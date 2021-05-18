@@ -1,0 +1,22 @@
+{
+    "name": "connected",
+    "description": "static site that displays [ you are connected ] ",
+    "version": "1.0.0",
+    "engines": {
+        "node": ">=6.9.5"
+    },
+    "repository": {
+      "url": "https://github.com/jonathan-annett/connected",
+      "type": "git"
+    },
+    "keywords": [ ],
+    "author": "Jonathan Annett",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/jonathan-annett/connected/issues"
+    },
+    "homepage": "https://github.com/jonathan-annett/connected#readme",
+    "dependencies": {
+       "express" : "*"
+    }
+}
